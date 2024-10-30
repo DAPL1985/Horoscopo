@@ -1,12 +1,5 @@
 <resources>
     <string name="app_name">Horoscopo</string>
-    <string name="menu_search">Search</string>
-    <string name="menu_next">Next</string>
-    <string name="menu_prev">Previous</string>
-    <string name="menu_favorite">Favorite</string>
-    <string name="menu_share">Share</string>
-
-    <string name="horoscope_of_day">Horoscope of today:</string>
 
     <string name="horoscope_name_aries">Aries</string>
     <string name="horoscope_name_taurus">Taurus</string>
@@ -33,6 +26,4 @@
     <string name="horoscope_date_capricorn">December 22 to January 19</string>
     <string name="horoscope_date_aquarius">January 20 to February 18</string>
     <string name="horoscope_date_pisces">February 19 to March 20</string>
-    <string name="alert_error_title">Error</string>
-    <string name="alert_error_connection">There was an error trying to connect to the service</string>
 </resources>
